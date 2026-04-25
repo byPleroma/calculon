@@ -3,11 +3,11 @@
 ![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c)
 ![GTK3](https://img.shields.io/badge/UI-GTK3-7fe719?style=for-the-badge&logo=gnome)
 ![Linux](https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
 
 Uma calculadora de alta performance para Linux que traz a estética **Fluent Design** do Windows 11 para o ambiente desktop GTK. Desenvolvida em C puro, com uma arquitetura desacoplada que separa a interface (UI) do motor de cálculo (Core).
 
-<img width="432" height="597" alt="image" src="https://github.com/user-attachments/assets/ec7187c2-e64e-40ef-92bd-4d6132a7c5fd" />
+<img width="332" height="497" alt="image" src="https://github.com/user-attachments/assets/ec7187c2-e64e-40ef-92bd-4d6132a7c5fd" />
 
 
 ---
