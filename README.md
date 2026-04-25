@@ -1,3 +1,11 @@
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cb9f1705-e6e0-4472-bc25-ace00933ae07" width="101" height="107" alt="Pleroma (1)"></td>
+    <td><strong>byPleroma</strong></td>
+  </tr>
+</table>
+
+
 # 🖥️ Calculon (GTK)
 
 ![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c)
