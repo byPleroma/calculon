@@ -5,7 +5,6 @@
   </tr>
 </table>
 
-
 # 🖥️ Calculon (GTK)
 
 ![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c)
