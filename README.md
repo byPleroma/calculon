@@ -7,6 +7,9 @@
 
 Uma calculadora de alta performance para Linux que traz a estética **Fluent Design** do Windows 11 para o ambiente desktop GTK. Desenvolvida em C puro, com uma arquitetura desacoplada que separa a interface (UI) do motor de cálculo (Core).
 
+<img width="432" height="597" alt="image" src="https://github.com/user-attachments/assets/ec7187c2-e64e-40ef-92bd-4d6132a7c5fd" />
+
+
 ---
 
 ## ✨ Destaques
