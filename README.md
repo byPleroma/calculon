@@ -79,7 +79,7 @@ gcc main.c calc-engine.c -o wf-calc `pkg-config --cflags --libs gtk+-3.0` -lm
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.
+Este projeto está sob a licença GNU. Sinta-se livre para usar, modificar e distribuir.
 
 ---
 *Desenvolvido com foco em lógica, precisão e objetividade.*
