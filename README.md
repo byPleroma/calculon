@@ -14,6 +14,8 @@
 
 A high-performance calculator for Linux designed to bring the Windows 11 **Fluent Design** experience to the GTK desktop environment. Developed in pure C, featuring a decoupled architecture that strictly separates the User Interface (UI) from the Calculation Engine (Core).
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bypleroma)
+
 <img width="332" height="497" alt="image" src="https://github.com/user-attachments/assets/f4c0474f-67a7-420f-966a-35b8e9667864" />
 
 ---
